@@ -1,0 +1,13 @@
+{
+  "name": "next.js-styled-jsx-ie10-issue",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^2.0.0-beta"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}
